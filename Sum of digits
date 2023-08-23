@@ -8,4 +8,4 @@ print('sum of digits in a number',sum)
 
 Output:
 enter number198
-sum of digits in a number 18
+sum of digits in a number =18 
